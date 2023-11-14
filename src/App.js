@@ -5,7 +5,7 @@ import Todolist from "./components/Todolist";
 
 function App() {
   return (
-    <div>
+    <div className="styles">
       <Todolist />
     </div>
   );
